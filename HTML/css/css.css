@@ -1,0 +1,11 @@
+/* Estilos generales (Móvil primero) */
+body {
+    background-color: whitesmoke;
+}
+
+/* Estilos para pantallas mayores a 768px (Tablets y PC) */
+@media (min-width: 768px) {
+    body {
+        background-color: white;
+    }
+}
